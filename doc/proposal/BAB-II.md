@@ -9,27 +9,23 @@ Pada saat hendak membuat sebuah sistem yang akan digunakan pada suatu perusahaan
 <p align="justify">
 Pengelolaan adalah proses, cara, perbuatan mengelola, proses melakukan kegiatan tertentu dengan menggerakan tenaga orang lain; proses yang membantu merumuskan kebijakan dan tujuan organisasi; proses yang memberikan pengawasan pada semua hal yang terlibat dalam pelaksanaan dan pencapaian tujuan”. (Kamus Besar Bahasa Indonesia, 1995: 470). Sedangkan Data dapat disebut sebagai sekumpulan informasi atau nilai yang diperoleh dari pengamatan (obsevasi) suatu objek.
 </p>
-<b>2.3. Pengertian Pendistribusian Data</b>
-<p align="justify">
-Pendistribusian data merupakan penyampaian data atau informasi yang telah diolah kepada pihak yang membutuhkan infomasi agar dapat digunakan untuk mencapai tujuan yang diinginkan
-</p>
-<b>2.4	Pengertian Proposal</b>
+<b>2.3	Pengertian Proposal</b>
 <p align="justify">
 Proposal adalah usulan rencana kegiatan. Kata proposal berasal dari bahasa Inggris to propose yang artinya mengajukan. Dengan demikian pengertian proposal memiliki arti sederhana sebagai suatu bentuk pengajuan atau permohonan, penawaran baik berupa ide, gagasan, pemikiran, maupun rencana kepada pihak lain untuk mendapatkan dukungan ijin, persetujuan, dana, dan lain sebagainya (Hariwijaya, 2005:12-13). Sebagai bentuk pengajuan, proposal bernilai penting dan strategis karena merupakan awal yang menentukan keberhasilan suatu rencana program (usaha atau kegiatan). Karenanya, banyak orang atau lembaga menjadikan proposal sebagai "senjata ampuh" untuk menunjukkan apa saja ide, rencana kegiatan (usaha), dan program yang ditawarkan kepada pihak-pihak yang berkepentingan.
 </p>
 <b>
-2.5	Pengertian Karya Ilmiah</b>
+2.4	Pengertian Karya Ilmiah</b>
 <p align="justify">
 Karya Ilmiah adalah Suatu karangan atau tulisan yang diperoleh sesuai dengan sifat keilmuannya dan didasari oleh hasil pengamatan, peninjauan, penelitian dalam bidang tertentu, disusun menurut metode tertentu dengan sistematika penulisan yang bersantun bahasa dan isinya dapat dipertanggungjawabkan kebenarannya/keilmiahannya (Eko Susilo, M. 1995:11)
 </p>
 <b>
-2.6	UML<br>
-2.6.1	Pengertian UML</b>
+2.5	UML<br>
+2.5.1	Pengertian UML</b>
 <p align="justify">
 Menurut Nugroho (2010:6), UML (Unified Modeling Language) adalah ‘bahasa’ pemodelan untuk sistem atau perangkat lunak yang berparadigma ‘berorientasi objek”. Pemodelan (modeling) sesungguhnya digunakan untuk penyederhanaan permasalahan-permasalahan yang kompleks sedemikian rupa sehingga lebih mudah dipelajari dan dipahami.
 </p>
 <b>
-2.6.2	Model UML (Unified Modeling Language)</b>
+2.5.2	Model UML (Unified Modeling Language)</b>
 <p align="justify">
 Menurut Widodo (2011:10), “Beberapa literature menyebutkan bahwa UML menyediakan sembilan jenis diagram, yang lain menyebutkan delapan karena ada beberapa diagram yang digabung, misanya diagram komunikasi, diagram urutan dan diagram pewaktuan digabung menjadi diagram interaksi”. Namun demikian model-model itu dapat dikelompokkan berdasarkan sifatnya yaitu statis atau dinamis. Jenis diagram itu antara lain:
 a.	Diagram kelas (Class Diagram)<br>
@@ -51,23 +47,23 @@ Bersifat statis. Diagram komponen ini memperlihatkan organisasi serta kebergantu
 i.	Diagram deployment (deployment diagram)<br>
 Bersifat statis. Diagram inimemperlihatkan konfigurasi saat aplikasi dijalankan (run-time). Memuat simpul-simpul beserta komponen-komponen yang di dalamnya. Kesembilan diagram ini tidak mutlak harus digunakan dalam pengembangan perangkat lunak, semuanya dibuat sesuai kebutuhan. Pada UML dimungkinkan kita menggunakan diagram-diagram lainnya misalnya data flow diagram, entity relationship diagram, dan sebagainya.
 </p>
-<b>2.7	Framework CodeIgniter</b>
+<b>2.6	Framework CodeIgniter</b>
 <p align="justify">
 Menurut Basuki (2010) bahwa Codeigniter adalah sebuah framework PHP yang dapat membantu mempercepat developer dalam pengembangan aplikasi website berbasis PHP dibandingkan jika menulis semua kode program dari awal. Codeigniter menyediakan banyak library untuk mengerjakan tugas-tugas yang umumnya ada pada sebuah aplikasi berbasis web. Selain itu, struktur dan susunan logis dari Codeigniter membuat aplikasi yang dibuat menjadi semakin teratur dan rapi. Dengan demikian developer dapat fokus pada fitur-fitur apa yang dibutuhkan oleh aplikasi dengan membuat kode program seminimal mungkin. Codeigniter pertama kali dibuat oleh Rick Ellis, CEO Ellislab, Inc. (http://ellislab.com), sebuah perusahaan yang memproduksi sebuah CMS (Content Management System) yang cukup handal, yaitu ExpressionEngine (http://www.expressionengine.com). Saat ini, Codeigniter dikembangkan dan dimaintain oleh ExpressionEngine Development Team.
 </p>
-<b>2.8	CSS Bootstrap</b>
+<b>2.7	CSS Bootstrap</b>
 <p align="justify">
 Ditarik kesimpulan dari Neter John et al (1996:429), Bootsrap merupakan framework yang digunakan untuk membangun sebuah desain web secara responsive. Artinya, desain web yang dirancang menggunakan bootstrap akan menyesuaikan dengan ukuran layar dari browser yang digunakan baik desktop, tablet ataupun mobile device. Dengan bootstrap pengguna dapat membangun sebuah web yang dinamis ataupun statis.
 </p>
 <b>
-2.9	jQuery</b>
+2.8	jQuery</b>
 <p align="justify">
 Menurut Kadir (2013a:10) “Jquery adalah pustaka yang dibangun dengan menggunakan JavaScript. jQuery dibuat oleh John Resign pada tahun 2006. Banyak website yang memanfaatkan library ini untuk menyederhanakan fungsi-fungsi yang ada di javascript atau ajax.
 Sesuai dengan slogannya menurut Kadir (2012b:10) “jQuery sendiri “Write Less, Do More”, menulis sedikit namun mengerjakan banyak hal, sehingga anda dapat menghemat coding program, yang sebelumnya menggunakan javascript beberapa baris kode, namun jQuery hanya satu baris saja”.
 </p>
 <b>
-2.10	Software yang digunakan<br>
-2.10.1	Sublime Text 3</b>
+2.9	Software yang digunakan<br>
+2.9.1	Sublime Text 3</b>
 <p align="center"><img src="../../img/proposal/sublime.PNG" width="300" height="200"> </p>
 <p align="center">Gambar 2.1 Sublime Text 3</p>
 <p align="justify">
@@ -85,7 +81,7 @@ Editor Sublime Text pada jendela terpisah bisa jadikan sebagai tab baru dengan c
 
 </p>
 <b>
-2.10.2	XAMPP 1.7.3
+2.9.2	XAMPP 1.7.3
  </b>
  <p align="center"><img src="../../img/proposal/xampp.PNG" width="300" height="200"> </p>
 <p align="center">Gambar 2.2 XAMPP 1.7.3</p>
@@ -98,7 +94,7 @@ Xampp merupakan gabungan dari beberapa program yaitu Apache (Web server), MySQL 
 4.	P (phpMyadmin) dan<br>
 5.	P (perl).
  </p>
-<b>2.10.3	Star UML</b>
+<b>2.9.3	Star UML</b>
 <p align="center"><img src="../../img/proposal/uml.PNG" width="300" height="200"> </p>
  <p align="center">
 Gambar 2.3 Star UML
