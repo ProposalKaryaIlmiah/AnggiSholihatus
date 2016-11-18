@@ -9,10 +9,6 @@ Pada saat hendak membuat sebuah sistem yang akan digunakan pada suatu perusahaan
 <p align="justify">
 Pengelolaan adalah proses, cara, perbuatan mengelola, proses melakukan kegiatan tertentu dengan menggerakan tenaga orang lain; proses yang membantu merumuskan kebijakan dan tujuan organisasi; proses yang memberikan pengawasan pada semua hal yang terlibat dalam pelaksanaan dan pencapaian tujuan”[2].Sedangkan menurut Haer Talib, data adalah sekumpulan fakta dan sebuah fakta tak lain adalah sebuah kenyataan atau kejadian [3].
 </p>
-<b>2.3. Pengertian Pendistribusian Data</b>
-<p align="justify">
-Pendistribusian data merupakan penyampaian data atau informasi yang telah diolah kepada pihak yang membutuhkan infomasi agar dapat digunakan untuk mencapai tujuan yang diinginkan[4].
-</p>
 <b>2.4	Pengertian Proposal</b>
 <p align="justify">
 Proposal adalah usulan rencana kegiatan. Kata proposal berasal dari bahasa Inggris to propose yang artinya mengajukan. Dengan demikian pengertian proposal memiliki arti sederhana sebagai suatu bentuk pengajuan atau permohonan, penawaran baik berupa ide, gagasan, pemikiran, maupun rencana kepada pihak lain untuk mendapatkan dukungan ijin, persetujuan, dana, dan lain sebagainya. Sebagai bentuk pengajuan, proposal bernilai penting dan strategis karena merupakan awal yang menentukan keberhasilan suatu rencana program (usaha atau kegiatan). Karenanya, banyak orang atau lembaga menjadikan proposal sebagai "senjata ampuh" untuk menunjukkan apa saja ide, rencana kegiatan (usaha), dan program yang ditawarkan kepada pihak-pihak yang berkepentingan [5].
